@@ -1,4 +1,7 @@
 style
+body {
+  background-image: url('img/Paper.jpg');
+}
 
 table {
   font-family: arial, sans-serif;
